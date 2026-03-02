@@ -4,9 +4,8 @@ A scalable, production-ready data lakehouse built on **Databricks** for an e-com
 
 ---
 
-![image](Project ETL Structure.png)    
-
 ## 📐 Architecture Overview
+![image](ETL.png)
 
 ```
 ┌─────────────────────────────────────────────────────────┐
